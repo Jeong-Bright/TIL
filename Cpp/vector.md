@@ -12,4 +12,4 @@
 
 	- 특정 개수가 초기화 되어있고 크기도 동적으로 늘어나는 배열을 쓰고싶다면,
 
-- [Code]
+- [Code](https://github.com/Jeong-Bright/TIL/blob/main/Cpp/vtr.cpp)

@@ -16,7 +16,7 @@
 	- 부모 클래스의 메서들르 자식 클래스가 동일한 형태로 또 다시 구현하려는 행위를 메서드 오버라이딩이라고 한다.
 	
 
-	  ex):
+	  ex)
 	  - class B extends A { void temp() { system. ...} }
 	  - class C extends B { void temp() { system. ...} }
 
@@ -24,6 +24,6 @@
 - 메서드 오버로딩
 	- 입력항목이 다른 경우 동일한 이름의 메서드를 만들 수 있는데 이를 메서드 오버로딩(method overloading)이라고 부른다.
 
-	  ex):
+	  ex)
 	  - class C extends B { void temp() {} 
 	  - void temp(int K) {} }

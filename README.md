@@ -5,6 +5,7 @@
   - [생성자](https://github.com/Jeong-Bright/TIL/blob/main/JAVA/constructor.md)
   - [상속](https://github.com/Jeong-Bright/TIL/blob/main/JAVA/inheritance.md)
   - [인터페이스](https://github.com/Jeong-Bright/TIL/blob/main/JAVA/interface.md)
+  -------
 ### 그 외
   - [print](https://github.com/Jeong-Bright/TIL/blob/main/JAVA/print.md)
 ## Data Base

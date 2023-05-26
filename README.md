@@ -16,3 +16,5 @@
 ## Algorithm
   - Knapsack Problem
   - Longest common subsequence
+  - longest increasing subsequence
+  - Permutation / Combination

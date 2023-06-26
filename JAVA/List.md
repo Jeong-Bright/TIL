@@ -44,7 +44,7 @@ String two = pitches.get(1);  // 형 변환이 필요없다.
 > 다양한 방법의 ArrayList
 
 - 문자열 배열이 존재하는 경우
-	```java
+```java
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -55,7 +55,7 @@ public class Sample {
         System.out.println(pitches);  // [138, 129, 142] 출력
     }
 }
-	```
+```
 
 > String.join
 

@@ -81,3 +81,17 @@ public class Sample {
 - sort 메서드에는 정렬기준을 파라미터로 전달해야 한다. 정렬기준에는 다음처럼 오름차순, 내림차순이 있다.
 	- 오름차순(순방향) 정렬 - Comparator.naturalOrder()
 	- 내림차순(역방향) 정렬 - Comparator.reverseOrder()
+- ex)
+  - ```java
+    import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+
+public class Sample {
+    public static void main(String[] args) {
+        ArrayList<String> pitches = new ArrayList<>(Arrays.asList("138", "129", "142"));
+        pitches.sort(Comparator.naturalOrder());  // 오름차순으로 정렬
+        System.out.println(pitches);  // [129, 138, 142] 출력
+    }
+}
+```

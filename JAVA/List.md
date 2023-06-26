@@ -76,3 +76,8 @@ public class Sample {
 }
 ```
 - 문자열 배열에도 사용 가능하다.
+
+> Sort
+- sort 메서드에는 정렬기준을 파라미터로 전달해야 한다. 정렬기준에는 다음처럼 오름차순, 내림차순이 있다.
+	- 오름차순(순방향) 정렬 - Comparator.naturalOrder()
+	- 내림차순(역방향) 정렬 - Comparator.reverseOrder()

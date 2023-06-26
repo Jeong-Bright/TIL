@@ -55,6 +55,7 @@ public class Sample {
         System.out.println(pitches);  // [138, 129, 142] 출력
     }
 }
+- 배열의 데이터를 ArrayList에 삽입한다.
 ```
 
 > String.join

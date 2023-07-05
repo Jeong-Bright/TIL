@@ -1,0 +1,4 @@
+- bool (array / vector)
+    - bool은 true 혹은 false를 저장하는 자료형이다.
+    - array를 사용하여 만든 bool 자료형의 크기는 char과 같이 1 byte를 사용한다.
+    - vector<bool>를 사용할 경우 bool의 한 칸 크기가 1 byte가 아닌 1bit만 차지하도록 최적화가 이루어진다. 이 최적화 덕분에 공간도 8배 적게 쓰고 결정적으로 cache hit rate가 올라가서 시간도 빨라진다.

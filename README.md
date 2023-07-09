@@ -14,6 +14,9 @@
 ## Data Structure
   - [DFS와 BackTracking](https://github.com/Jeong-Bright/TIL/blob/main/DataStructure/DFS%2CBackTracking.md)
 ## C++
+  - [namespace](https://github.com/Jeong-Bright/TIL/blob/main/Cpp/2.md)
+-----
+### 그 외
   - [벡터 사용 시, () 선언과 [] 선언의 차이](https://github.com/Jeong-Bright/TIL/blob/main/Cpp/vector.md)
   - [bool 자료형 사용시, 배열과 벡터의 차이](https://github.com/Jeong-Bright/TIL/blob/a95665215f870b9677840af751ec00293268869c/Cpp/bool.md)
 ## Algorithm

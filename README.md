@@ -24,3 +24,5 @@
   - Longest common subsequence
   - longest increasing subsequence
   - Permutation / Combination
+## etc
+  - interpreter / compiler
